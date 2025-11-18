@@ -33,6 +33,10 @@
     "slippage": 0.5
   },
 
+  "claimBadge":{
+    "enabled": true
+  },
+
   "faucet": {
     "enabled": true,
     "retryOnCaptchaFail": 3,
