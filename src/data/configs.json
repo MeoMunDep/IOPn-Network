@@ -1,5 +1,5 @@
 {
-  "TIME_TO_RESTART_ALL_WALLETS": 86400,
+  "timeToRestartAllWallets": 86400,
 
   "wrapOPN": {
     "enabled": true,
